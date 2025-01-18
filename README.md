@@ -1,5 +1,6 @@
-# Currency Converter
+# Currency Converter for ONE (Oracle Next Education) Program
 ![Currency Converter Banner](assets/Badge-Conversor.png)
+
 This project is a solution to the challenge proposed by the ONE (Oracle Next Education) program for developing a currency converter. The program is built using **Java** and focuses on consuming a REST API to obtain real-time exchange rates. The primary objective is to demonstrate key backend development skills, including handling HTTP requests, processing JSON data, and creating interactive console applications.
 
 ## Description
