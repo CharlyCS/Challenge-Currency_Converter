@@ -26,4 +26,4 @@ Follow these steps to set up and run the program:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/currency-converter.git
+   git clone https://github.com/CharlyCS/Challenge-Currency_Converter
